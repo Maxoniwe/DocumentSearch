@@ -1,0 +1,19 @@
+# Конфиг с кредами - никогда не коммитить
+config.ini
+
+# База данных и WAL-журнал
+index.db
+index.db-wal
+index.db-shm
+
+# Кэши рантайма
+files_cache.json
+db_stats.json
+
+# Служебный файл для разработки
+CLAUDE.md
+
+# Временные файлы Python
+__pycache__/
+*.py[cod]
+*.pyo

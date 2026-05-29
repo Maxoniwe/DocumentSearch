@@ -1,0 +1,5 @@
+[connection]
+login      = ВВЕДИ_СВОЙ_ЛОГИН
+password   = ВВЕДИ_СВОЙ_ПАРОЛЬ
+server     = //YOUR_SERVER/SHARE
+share_path = YOUR_SHARE_PATH
